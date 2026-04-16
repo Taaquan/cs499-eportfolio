@@ -22,4 +22,4 @@ I improved the application by:
 
 This project helped me understand the importance of clean code and user-focused design. I learned that improving structure and usability can significantly impact the overall quality of an application.
 
-[View Project Repository](https://github.com/YOURUSERNAME/CS-499-Enhancement-for-CS-360)
+[View Project Repository](https://github.com/taaquan/CS-499-Enhancement-for-CS-360)
