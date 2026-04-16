@@ -20,4 +20,4 @@ This artifact is based on a CS 300 project focused on managing course data using
 
 This project showed me how important it is to choose the correct data structure. By using a map, I was able to reduce time complexity and improve performance.
 
-[View Project Repository](https://github.com/taaqua/CS-499-Enhancement-for-CS-300)
+[View Project Repository](https://github.com/taaquan/CS-499-Enhancement-for-CS-300)
