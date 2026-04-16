@@ -22,7 +22,7 @@ This ePortfolio represents my growth as a computer science student and demonstra
 
 This project demonstrates my ability to design and enhance a mobile application. I improved code structure, user interface design, input validation, and task organization to create a more user-friendly and maintainable system.
 
-[View Repository](https://github.com/YOURUSERNAME/CS-499-Enhancement-for-CS-360)
+[View Repository](https://github.com/taaquan/CS-499-Enhancement-for-CS-360)
 
 ---
 
@@ -30,7 +30,7 @@ This project demonstrates my ability to design and enhance a mobile application.
 
 This project highlights my ability to improve program efficiency by optimizing data structures and algorithms. I used a map to reduce time complexity and improve search and sorting performance.
 
-[View Repository](https://github.com/YOURUSERNAME/CS-499-Enhancement-for-CS-300)
+[View Repository](https://github.com/taaquan/CS-499-Enhancement-for-CS-300)
 
 ---
 
@@ -38,7 +38,7 @@ This project highlights my ability to improve program efficiency by optimizing d
 
 This project demonstrates a full CRUD database dashboard using MongoDB and Dash. I added filtering, sorting, and data visualization features to improve usability and performance.
 
-[View Repository](https://github.com/YOURUSERNAME/CS-499-Enhancement-for-CS-340)
+[View Repository](https://github.com/taaquan/CS-499-Enhancement-for-CS-340)
 
 
 
