@@ -20,4 +20,4 @@ This artifact is a database dashboard developed in CS 340 using MongoDB and Pyth
 
 This project helped me understand how database systems work in real-world applications. Adding CRUD operations and filters made the system more practical and user-friendly.
 
-[View Project Repository](https://github.com/YOURUSERNAME/CS-499-Enhancement-for-CS-340)
+[View Project Repository](https://github.com/taaquan/CS-499-Enhancement-for-CS-340)
