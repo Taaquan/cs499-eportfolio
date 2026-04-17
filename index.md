@@ -41,5 +41,6 @@ This project demonstrates a full CRUD database dashboard using MongoDB and Dash.
 [View Repository](https://github.com/taaquan/CS-499-Enhancement-for-CS-340)
 
 
-
+## Code Review Video
+[Watch my Code Review](https://youtu.be/FPHX3HRt4fs)
 
