@@ -42,5 +42,5 @@ This project demonstrates a full CRUD database dashboard using MongoDB and Dash.
 
 
 ## Code Review Video
-[Watch my Code Review](https://youtu.be/FPHX3HRt4fs)
+[Watch my Code Review](https://youtu.be/TZn7CEP6wQU)
 
